@@ -1,0 +1,17 @@
+[
+    {
+        "package": "agroclimatico",
+        "url": "https://github.com/AgRoMeteorologiaINTA/agroclimatico"
+    },
+    {
+        "package": "SISINTAR",
+        "url": "https://github.com/INTA-Suelos/SISINTAR"
+    },
+    {
+        "package": "mesoda",
+        "url": "https://github.com/paocorrales/mesoda"
+    },
+    {
+	"package": "rvad"
+	"url": "https://github.com/paocorrales/rvad"
+]
